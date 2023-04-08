@@ -20,7 +20,7 @@ To run this notebook, you will need the following software installed:
 
 ## Getting Started
 
-To get started, simply clone this repository to your local machine and open the efficient-pandas.ipynb file in Jupyter Notebook. Each problem is contained in a separate cell, so you can run them individually and see the results.
+To get started, simply clone this repository to your local machine and open the cleanPandas.ipynb file in Jupyter Notebook. Each problem is contained in a separate cell, so you can run them individually and see the results.
 
 ## Contributing
 
